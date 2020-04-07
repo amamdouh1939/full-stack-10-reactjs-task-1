@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/full-stack-10-reactjs-task-1/static/css/main.4498843b.chunk.css",
+    "main.js": "/full-stack-10-reactjs-task-1/static/js/main.a1c290a6.chunk.js",
+    "main.js.map": "/full-stack-10-reactjs-task-1/static/js/main.a1c290a6.chunk.js.map",
+    "runtime-main.js": "/full-stack-10-reactjs-task-1/static/js/runtime-main.5180e54c.js",
+    "runtime-main.js.map": "/full-stack-10-reactjs-task-1/static/js/runtime-main.5180e54c.js.map",
+    "static/css/2.de424728.chunk.css": "/full-stack-10-reactjs-task-1/static/css/2.de424728.chunk.css",
+    "static/js/2.f42171df.chunk.js": "/full-stack-10-reactjs-task-1/static/js/2.f42171df.chunk.js",
+    "static/js/2.f42171df.chunk.js.map": "/full-stack-10-reactjs-task-1/static/js/2.f42171df.chunk.js.map",
+    "index.html": "/full-stack-10-reactjs-task-1/index.html",
+    "precache-manifest.ac0e9b9ef806708ed1e3ce56c5107589.js": "/full-stack-10-reactjs-task-1/precache-manifest.ac0e9b9ef806708ed1e3ce56c5107589.js",
+    "service-worker.js": "/full-stack-10-reactjs-task-1/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/full-stack-10-reactjs-task-1/static/css/2.de424728.chunk.css.map",
+    "static/css/main.4498843b.chunk.css.map": "/full-stack-10-reactjs-task-1/static/css/main.4498843b.chunk.css.map",
+    "static/js/2.f42171df.chunk.js.LICENSE.txt": "/full-stack-10-reactjs-task-1/static/js/2.f42171df.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/full-stack-10-reactjs-task-1/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5180e54c.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.f42171df.chunk.js",
+    "static/css/main.4498843b.chunk.css",
+    "static/js/main.a1c290a6.chunk.js"
+  ]
+}
